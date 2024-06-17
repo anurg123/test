@@ -1,0 +1,8 @@
+.about-us1 {
+    position: relative;
+    font-size: var(--font-size-2xs);
+    font-family: var(--font-inter);
+    color: var(--color-gray);
+    text-align: left;
+  }
+  
